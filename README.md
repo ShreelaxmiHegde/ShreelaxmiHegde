@@ -11,7 +11,6 @@
 
 - 🔭 I’m currently working on: **Real-world Web Projects + DSA**
 - 🌱 Learning path: **c++, MERN stack, GitHub, Open Source,Blog documentations**
-- 📖 Writing about my tech journey on [Medium](https://medium.com/@shreelaxmihegde9/)
 - 💬 Ask me about: **HTML, CSS, JS, GitHub Projects, DSA Basics**
 - 👀 Open to: Collaborations, Open Source Projects, and Startup Opportunities
 
@@ -42,14 +41,6 @@
 
 ---
 
-### ✍️ Blog & Writing
-
-- 📘 Sharing my journey on [Medium](https://medium.com/@shreelaxmihegde9/)
-- 🧠 Writing about what I learn to reinforce it and help others
-- 🧩 Documenting side projects & dev progress
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -63,7 +54,6 @@
 ### 📫 Let's Connect
 
 - 💼 [LinkedIn](www.linkedin.com/in/shreelaxmi-hegde-832168358) 
-- 📝 [Medium](https://medium.com/@shreelaxmihegde9/)
 - 💬 Drop a message, I'm always happy to connect with fellow devs!
 
 ---
