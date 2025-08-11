@@ -47,6 +47,7 @@
 
 -  [LinkedIn](www.linkedin.com/in/shreelaxmi-hegde-832168358) 
 -  Drop a message, I'm always happy to connect with fellow devs!
+-  ![views](https://komarev.com/ghpvc/?username=ShreelaxmiHegde&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
