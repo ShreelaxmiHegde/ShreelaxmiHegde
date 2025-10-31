@@ -58,8 +58,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ShreelaxmiHegde&show_icons=true&theme=radical" />
 </p>
 
-[](https://github.com/ShreelaxmiHegde/ShreelaxmiHegde/edit/main/README.md)
-
 ---
 
 ## 🌐 Looking for Opportunities
@@ -67,7 +65,7 @@ I'm currently open to **Full Stack Developer** roles and **internships** especia
 You’re hiring or have collaboration ideas? 
 Let’s connect on any of the following platforms.
 
-<a href="www.linkedin.com/in/shreelaxmi-hegde-832168358"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28"/></a> 
+<a href="https://www.linkedin.com/in/shreelaxmi-hegde-832168358"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28"/></a> 
 <a href="https://discord.gg/pZa6GDBn"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" height="28"/></a> 
 <a href="https://leetcode.com/ShreelaxmiHegde"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" height="28"/></a> 
 <a href="https://dev.to/shreelaxmihegde"><img src="https://img.shields.io/badge/DEV-0A0A0A?logo=devdotto&logoColor=white" height="28"/></a>
