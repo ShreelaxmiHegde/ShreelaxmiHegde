@@ -56,7 +56,9 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=ShreelaxmiHegde&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreelaxmiHegde&layout=compact&theme=dark" alt="Top Languages" />
 </p>
+
 
 ---
 
