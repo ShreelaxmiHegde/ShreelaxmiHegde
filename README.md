@@ -59,6 +59,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreelaxmiHegde&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
+---
+### Hactoberfest 2025 - Contributor
+
+[![An image of @shreelaxmihegde's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shreelaxmihegde)](https://holopin.io/@shreelaxmihegde)
 
 ---
 
@@ -71,6 +75,7 @@ Let’s connect on any of the following platforms.
 <a href="https://discord.gg/pZa6GDBn"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" height="28"/></a> 
 <a href="https://leetcode.com/ShreelaxmiHegde"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" height="28"/></a> 
 <a href="https://dev.to/shreelaxmihegde"><img src="https://img.shields.io/badge/DEV-0A0A0A?logo=devdotto&logoColor=white" height="28"/></a>
+
 
 > ⭐ *You're just one click away from connecting with me. Let’s build something impactful together!*
 
