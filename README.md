@@ -3,7 +3,7 @@
 <ul>
   <li>💡 I love building  <strong>user-centric</strong>, smooth full-stack web applications.</li>
   <li>🧠 I enjoy breaking <strong>complex</strong> concepts into simpler ones and I often share my learnings through blogs on <a href="https://dev.to/shreelaxmihegde" target="_blak"><img src="https://img.shields.io/badge/DEV-0A0A0A?logo=devdotto&logoColor=white"/></a>
-  <li>🤖 Currently learning how to <strong>integrate</strong> AI into WEB APPS. <strong>Feel free</strong> to discuss ideas with me <a href="https://discord.gg/pZa6GDBn"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" height="28"/></a>!</li>
+  <li>🤖 Currently learning how to <strong>integrate</strong> AI into WEB APPS. <strong>Feel free</strong> to discuss ideas with me.!</li>
   <li>🏠 Recently, I built a full-stack app called <strong>Accommate</strong>, focused on simplifying student accommodation experiences. Try it out here : (https://accommate.onrender.com/Accommate) </li>
   <li>🚀 I’m <strong>open to opportunities</strong> where I can grow, learn, and build meaningful products with great teams.</li>
 </ul>
@@ -71,8 +71,7 @@ I'm currently open to **Full Stack Developer** roles and **internships** especia
 You’re hiring or have collaboration ideas? 
 Let’s connect on any of the following platforms.
 
-<a href="https://www.linkedin.com/in/shreelaxmi-hegde-832168358"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28"/></a> 
-<a href="https://discord.gg/pZa6GDBn"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" height="28"/></a> 
+<a href="https://www.linkedin.com/in/shreelaxmi-hegde-832168358"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28"/></a>
 <a href="https://leetcode.com/ShreelaxmiHegde"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" height="28"/></a> 
 <a href="https://dev.to/shreelaxmihegde"><img src="https://img.shields.io/badge/DEV-0A0A0A?logo=devdotto&logoColor=white" height="28"/></a>
 
