@@ -52,14 +52,6 @@
 
 ---
 
-###  🔥 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ShreelaxmiHegde&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreelaxmiHegde&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
----
 ### Hactoberfest 2025 - Contributor
 
 [![An image of @shreelaxmihegde's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shreelaxmihegde)](https://holopin.io/@shreelaxmihegde)
@@ -81,3 +73,15 @@ Let’s connect on any of the following platforms.
 ---
 
 **“Learning by building. Growing by sharing.”**
+
+<!-- 
+```###  🔥 GitHub Stats  
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShreelaxmiHegde&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreelaxmiHegde&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+```
+--!>
+
+---
