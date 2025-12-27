@@ -66,22 +66,3 @@ Let’s connect on any of the following platforms.
 <a href="https://www.linkedin.com/in/shreelaxmi-hegde-832168358"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28"/></a>
 <a href="https://leetcode.com/ShreelaxmiHegde"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" height="28"/></a> 
 <a href="https://dev.to/shreelaxmihegde"><img src="https://img.shields.io/badge/DEV-0A0A0A?logo=devdotto&logoColor=white" height="28"/></a>
-
-
-> ⭐ *You're just one click away from connecting with me. Let’s build something impactful together!*
-
----
-
-**“Learning by building. Growing by sharing.”**
-
-<!-- 
-```###  🔥 GitHub Stats  
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ShreelaxmiHegde&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreelaxmiHegde&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-```
---!>
-
----
