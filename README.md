@@ -11,6 +11,8 @@
   - Collaborations
   - Internships
 
+---
+
 ## Tech Stack
 > <strong>Language :</strong> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="32" title="JavaScript"/> <br>
 <strong>Frontend :</strong> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" title="React"/> <br>
