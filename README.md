@@ -10,7 +10,7 @@
 > - <b>Building</b> Full-stack web applications.
 >   - [E-commerce app: Accommate](https://accommate.vercel.app)
 
-> - Looking for <b>Opportunities</b>
+> - Open for <b>Opportunities</b>
 >   - Collaborations
 >   - Internships
 
