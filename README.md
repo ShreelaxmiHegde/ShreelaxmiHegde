@@ -7,8 +7,10 @@
 > - Exploring <b>AI/ML</b> to build smart and intelligent web-applications.
 >    - Numpy | Pandas | Matplotlib | Seaborn
 
-> - <b>Building</b> Full-stack web applications.
+> - <b>Building</b> Full-stack web and ML applications.
 >   - [E-commerce app: Accommate](https://accommate.vercel.app)
+>   - [Loan Approval ML Model](https://github.com/ShreelaxmiHegde/loan-approval-prediction-model)
+>   - [Chrome Extension: Clipboard Manager](https://github.com/ShreelaxmiHegde/Clipboard-manager)
 
 > - Open for <b>Opportunities</b>
 >   - Collaborations
