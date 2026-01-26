@@ -6,6 +6,7 @@
 
 > - Exploring <b>AI/ML</b> to build smart and intelligent web-applications.
 >    - Numpy | Pandas | Matplotlib | Seaborn
+>    - Linear Regression | Logistic Regression | kNN | Naive Bayes
 
 > - <b>Building</b> Full-stack web and ML applications.
 >   - [E-commerce app: Accommate](https://accommate.vercel.app)
@@ -28,6 +29,7 @@
 ---
 
 ## Tools 
-<strong>Version Control : </strong><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="28" title="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="28" title="GitHub"/> <img src="https://img.shields.io/badge/-Hoppscotch-00A8E8?style=flat&logo=hoppscotch&logoColor=white"><br>
+<strong>Version Control : </strong><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="28" title="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="28" title="GitHub"/> , <img src="https://img.shields.io/badge/-Hoppscotch-00A8E8?style=flat&logo=hoppscotch&logoColor=white"><br>
 <strong>Deployment : </strong>[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#) <img src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white" height="28" title="Render"/> <br>
-<strong>Cloud Storage : </strong><img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white&color=3448C5&labelColor=3448C5" height="28" title="cloudinary"/>
+<strong>Cloud : </strong>[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white&color=3448C5&labelColor=3448C5" height="28" title="cloudinary"/>
