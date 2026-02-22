@@ -1,21 +1,25 @@
-# I'm Shreelaxmi Hegde! A Full-Stack Developer.
+# I'm Shreelaxmi Hegde! A Full-stack Developer
 
-> - Contributing to <b>Open Source Softwares</b>. 🗺️
->    - @stdlib/stdlib | @sanskrit
->    - Hactoberfest 2025 @Satya900/DEV_ELEVATE-main-
+- Contributing to **Open Source Softwares**
+  - @stdlib-js/stdlib | @sanskrit
+  - Hactoberfest 2025 @Satya900/DEV_ELEVATE-main-
+---
 
-> - Exploring <b>AI/ML</b> to build smart and intelligent web-applications.
->    - Numpy | Pandas | Matplotlib | Seaborn
->    - Linear Regression | Logistic Regression | kNN | Naive Bayes
+- Exploring <b>AI/ML</b> to build smart and intelligent web-applications.
+   - Numpy | Pandas | Matplotlib | Seaborn
+   - Linear Regression | Logistic Regression | kNN | Naive Bayes
+---
 
-> - <b>Building</b> Full-stack web and ML applications.
->   - [E-commerce app: Accommate](https://accommate.vercel.app)
->   - [Loan Approval Prediction ML Model](https://github.com/ShreelaxmiHegde/loan-approval-prediction-model)
->   - [Chrome Extension: Clipboard Manager](https://github.com/ShreelaxmiHegde/Clipboard-manager)
+- <b>Building</b> Full-stack web and ML applications.
+  - [E-commerce app: Accommate](https://accommate.vercel.app)
+  - [FileSystem CLI tool: siya-cli](https://github.com/ShreelaxmiHegde/siya-cli)
+  - [Chrome Extension: Clipboard Manager](https://github.com/ShreelaxmiHegde/Clipboard-manager)
+  - [Loan Approval Prediction ML Model](https://github.com/ShreelaxmiHegde/loan-approval-prediction-model)
+---
 
-> - Open for <b>Opportunities</b>
->   - Collaborations
->   - Internships
+- Open for <b>Opportunities</b>
+  - Internships
+  - Collaborations
 
 ---
 
