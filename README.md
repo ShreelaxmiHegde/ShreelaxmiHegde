@@ -9,7 +9,7 @@
       - Multi-stage Docker builds
       - CI pipeline trigger on PR or main branch events
       - Next: Contiuous Deployment to AWS EC2
-  - [FileSystem CLI tool: siya-cli](https://github.com/ShreelaxmiHegde/siya-cli)
+  - [Version Control CLI tool: siya-cli](https://github.com/ShreelaxmiHegde/siya-cli)
       - Custom version control system
       - Supports `init, add, commit, revert, pull, push` commands
       - Uses AWS S3 bucket enabling pull and push commands
