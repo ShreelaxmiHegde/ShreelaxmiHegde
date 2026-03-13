@@ -1,16 +1,21 @@
 # I'm Shreelaxmi Hegde! A Full-stack Developer
 
-- **Open Source Softwares** Contributions
-  - `@stdlib-js/stdlib` [🗂️](https://github.com/stdlib-js/stdlib/pulls?q=is%3Apr+author%3Ashreelaxmihegde+)
-  - `@aws/aws-sdk-js-v3` [🗂️](https://github.com/aws/aws-sdk-js-v3/issues?q=is%3Aissue%20state%3Aopen%20author%3AShreelaxmiHegde)
-  - Hactoberfest 2025: `@DEV_ELEVATE-main-` [🗂️](https://github.com/Satya900/DEV_ELEVATE-main-/issues/64) | `@SDEverse` [🗂️](https://github.com/Harshdev625/SDEverse/issues/199)
----
-
-- <b>Building</b> Full-stack web and ML applications.
+### Building Full-stack Web applications.
   - [E-commerce app: Accommate](https://accommate.vercel.app)
+      - Production-grade Full-Stack MERN application
+      - Session-Cookie based Authentication & Authorization system
+      - Centralized Error handling
+      - Component & API testing
+      - Multi-stage Docker builds
+      - CI pipeline trigger on PR or main branch events
   - [FileSystem CLI tool: siya-cli](https://github.com/ShreelaxmiHegde/siya-cli)
+      - Custom version control system
+      - Supports `init, add, commit, revert, pull, push` commands
+      - Uses AWS S3 bucket enabling pull and push commands
   - [Chrome Extension: Clipboard Manager](https://github.com/ShreelaxmiHegde/Clipboard-manager)
-  - [Loan Approval Prediction ML Model](https://github.com/ShreelaxmiHegde/loan-approval-prediction-model)
+      - Enables storage and retrieval up to 10 copy histories
+      - Built using Javscript and Manifest V3
+  
 ---
 
 <details> 
@@ -31,6 +36,12 @@ Cloud :  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoCo
 
 ---
 
+### **Open Source Softwares** Contributions
+  - `@stdlib-js/stdlib` [🗂️](https://github.com/stdlib-js/stdlib/pulls?q=is%3Apr+author%3Ashreelaxmihegde+)
+  - `@aws/aws-sdk-js-v3` [🗂️](https://github.com/aws/aws-sdk-js-v3/issues?q=is%3Aissue%20state%3Aopen%20author%3AShreelaxmiHegde)
+  - Hactoberfest 2025: `@DEV_ELEVATE-main-` [🗂️](https://github.com/Satya900/DEV_ELEVATE-main-/issues/64) | `@SDEverse` [🗂️](https://github.com/Harshdev625/SDEverse/issues/199)
+---
+
 <details>
   <summary>Exploring <b>AI/ML</b></summary>
   
@@ -47,6 +58,7 @@ Cloud :  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoCo
 
 ---
 
-- Open for <b>Opportunities</b>
+### Open for <b>Opportunities</b>
   - Internships
   - Collaborations
+  - Full-Stack / Backend Jobs
