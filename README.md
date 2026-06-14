@@ -53,14 +53,11 @@ Cloud :  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoCo
 
 ---
 
-### **Open Source Softwares** Contributions
+### Open Source Contributions
   - `@stdlib-js/stdlib` [🗂️](https://github.com/stdlib-js/stdlib/pulls?q=is%3Apr+author%3Ashreelaxmihegde+)
   - `@aws/aws-sdk-js-v3` [🗂️](https://github.com/aws/aws-sdk-js-v3/issues?q=is%3Aissue%20state%3Aopen%20author%3AShreelaxmiHegde)
   - Hactoberfest 2025: `@DEV_ELEVATE-main-` [🗂️](https://github.com/Satya900/DEV_ELEVATE-main-/issues/64) | `@SDEverse` [🗂️](https://github.com/Harshdev625/SDEverse/issues/199)
 
 ---
 
-### Open for <b>Opportunities</b>
-  - Internships
-  - Collaborations
-  - Full-Stack / Backend Jobs
+<i>Open for **Opportunities** - Internships or Collaborations or Full-Stack / Backend Jobs </i>
