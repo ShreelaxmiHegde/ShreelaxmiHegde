@@ -53,7 +53,9 @@ Cloud :  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoCo
 
 ---
 
-### Open Source Contributions
+<details> 
+  <summary><b>Open Source Contributions</b></summary>
+  
 - Reported web UI functionality issues
   - `@prisma/web` [🗂️](https://github.com/prisma/web/issues/7908)
   - `@aws/aws-sdk-js-v3` [🗂️](https://github.com/aws/aws-sdk-js-v3/issues?q=is%3Aissue%20state%3Aopen%20author%3AShreelaxmiHegde)
@@ -61,6 +63,8 @@ Cloud :  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoCo
   - `@stdlib-js/stdlib` [🗂️](https://github.com/stdlib-js/stdlib/pulls?q=is%3Apr+author%3Ashreelaxmihegde+)
 - Fixed web functionality issues
   - Hactoberfest 2025: `@DEV_ELEVATE-main-` [🗂️](https://github.com/Satya900/DEV_ELEVATE-main-/issues/64) | `@SDEverse` [🗂️](https://github.com/Harshdev625/SDEverse/issues/199)
+
+</details>
 
 ---
 
