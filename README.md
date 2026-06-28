@@ -31,6 +31,7 @@
 <details> 
   <summary><b>Tech Stack</b></summary>
 
+  <br/>
   <b><--- Full Stack ---></b> <br>
  Language : <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="32" title="JavaScript"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" height="28" title="TypeScript"/> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" height="28" title="Python"/> <br>
  Frontend : <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" title="React"/> <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" height="32" title="Next.js"/> <br>
@@ -55,6 +56,8 @@ Cloud :  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoCo
 
 <details> 
   <summary><b>Open Source Contributions</b></summary>
+  
+  <br/>
   
 - Reported web UI functionality issues
   - `@prisma/web` [🗂️](https://github.com/prisma/web/issues/7908)
