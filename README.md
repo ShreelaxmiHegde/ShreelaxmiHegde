@@ -9,7 +9,7 @@
       - Component & API testing
       - Multi-stage Docker builds
       - CI pipeline trigger on PR or main branch events
-      - Next: Contiuous Deployment to AWS EC2
+      - Contiuous Deployment to AWS EC2
   - [Version Control CLI tool: siya-cli](https://github.com/ShreelaxmiHegde/siya-cli)
       - Custom version control system
       - Supports `init, add, commit, revert, pull, push` commands
@@ -72,3 +72,9 @@ Cloud :  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoCo
 ---
 
 <i>Open for **Opportunities** - Internships or Collaborations or Full-Stack / Backend Jobs </i>
+
+---
+
+<i><b>Fun facts about me: </b></i>
+- <i>i like watching cows graze 🐄</i>
+- <i>im a fan of herbal teas ☕</i>
