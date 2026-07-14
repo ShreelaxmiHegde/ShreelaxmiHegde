@@ -2,14 +2,22 @@
 ## Building Full-stack applications & AI-powered systems.
 
 ### ◈ Fullstack Applications Built
+  - [AI Software Architecture Platform: ConstraintEngine]()
+      - Context management
+      - Product-aware rate limiting
+      - Semantic and textual AI-Agent input validation
+      - JWT-bcrypt based Authentication and Authorization
+      - Structured AI response management across app
   - [E-commerce app: Accommate](https://accommate.vercel.app)
-      - Production-grade Full-Stack MERN application
-      - Session-Cookie based Authentication & Authorization system
       - Centralized Error handling
       - Component & API testing
       - Multi-stage Docker builds
       - CI pipeline trigger on PR or main branch events
       - Contiuous Deployment to AWS EC2
+  
+  <details>
+  <summary>Others...</summary>
+
   - [Version Control CLI tool: siya-cli](https://github.com/ShreelaxmiHegde/siya-cli)
       - Custom version control system
       - Supports `init, add, commit, revert, pull, push` commands
@@ -17,7 +25,8 @@
   - [Chrome Extension: Clipboard Manager](https://github.com/ShreelaxmiHegde/Clipboard-manager)
       - Enables storage and retrieval up to 10 copy histories
       - Built using Javscript and Manifest V3
-   
+  </details>
+
 ### ◈ AI/Machine Learning systems Built
 - [Heart Attack Risk Prediction](https://github.com/ShreelaxmiHegde/cardiac_risk_predictor)
   - Classification problem
