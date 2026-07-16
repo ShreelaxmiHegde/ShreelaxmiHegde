@@ -2,7 +2,7 @@
 ## Building Full-stack applications & AI-powered systems.
 
 ### ◈ Fullstack Applications Built
-  - [AI Software Architecture Platform: ConstraintEngine]()
+  - [AI Software Architecture Platform: ConstraintEngine](https://constraint-engine.vercel.app/)
       - Context management
       - Product-aware rate limiting
       - Semantic and textual AI-Agent input validation
@@ -80,7 +80,7 @@ Cloud :  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoCo
 
 ---
 
-<i>Open for **Opportunities** - Internships or Collaborations or Full-Stack / Backend Jobs </i>
+<i>Open for **Opportunities** - Internships or Collaborations or Full-Stack / Backend Jobs .</i> [Resume](https://github.com/user-attachments/files/30075731/ShreelaxmiHegde_resume.docx.pdf)
 
 ---
 
