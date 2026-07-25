@@ -2,13 +2,13 @@
 ## Building Full-stack applications & AI-powered systems.
 
 ### ◈ Fullstack Applications Built
-  - [AI Software Architecture Platform: ConstraintEngine](https://constraint-engine.vercel.app/)
+  - [AI Software Architecture Platform: ConstraintEngine](https://github.com/ShreelaxmiHegde/ConstraintEngine) [[LIVE](https://constraint-engine.vercel.app/)]
       - Context management
       - Product-aware rate limiting
       - Semantic and textual AI-Agent input validation
       - JWT-bcrypt based Authentication and Authorization
       - Structured AI response management across app
-  - [E-commerce app: Accommate](https://accommate.vercel.app)
+  - [E-commerce app: Accommate](https://github.com/ShreelaxmiHegde/Accommate) [[LIVE](https://accommate.vercel.app)]
       - Centralized Error handling
       - Component & API testing
       - Multi-stage Docker builds
