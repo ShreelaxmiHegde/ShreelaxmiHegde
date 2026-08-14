@@ -28,6 +28,12 @@
   </details>
 
 ### ◈ AI/Machine Learning systems Built
+- [Local speech-to-text transcriber](https://github.com/ShreelaxmiHegde/local-speech2text-transcriber)
+  - Local audio transcription using Faster-Whisper
+  - Microphone input control (pause/resume/send) through keyboard keys
+  - Lightweight simple transcription storage
+  - Hardware-aware model configuration
+
 - [Heart Attack Risk Prediction](https://github.com/ShreelaxmiHegde/cardiac_risk_predictor)
   - Classification problem
   - Evaluated Logistic Regression, Naive Bayes, KNN
@@ -80,10 +86,5 @@ Cloud :  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoCo
 
 ---
 
-<i>Open for **Opportunities** - Internships or Collaborations or Full-Stack / Backend Jobs .</i> [Resume](https://github.com/user-attachments/files/30075731/ShreelaxmiHegde_resume.docx.pdf)
+Open for **Opportunities** - <i>Internships or Collaborations or AI Full-Stack / Backend Jobs .</i> [Resume](https://github.com/user-attachments/files/30075731/ShreelaxmiHegde_resume.docx.pdf)
 
----
-
-<i><b>Fun facts about me: </b></i>
-- <i>i like watching cows graze 🐄</i>
-- <i>im a fan of herbal teas ☕</i>
