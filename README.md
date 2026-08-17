@@ -1,10 +1,13 @@
 # I'm Shreelaxmi Hegde!
-## Building Full-stack applications & AI-powered systems.
+## Backend-focused full-stack developer building end-to-end applications and AI-powered systems.
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="32" title="JavaScript"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" height="28" title="TypeScript"/> <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="28" title="Node.js"/> <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" height="28" title="Postgres"/> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" height="32" title="Docker"/> <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white" height="28" title="AWS"/>
 
-### ◈ Fullstack Applications Built
+---
+
+### Featured Projects
   - [AI Software Architecture Platform: ConstraintEngine](https://github.com/ShreelaxmiHegde/ConstraintEngine) [[LIVE](https://constraint-engine.vercel.app/)]
       - Context management
-      - Product-aware rate limiting
+      - Product-aware rate limiting before LLM inference
       - Semantic and textual AI-Agent input validation
       - JWT-bcrypt based Authentication and Authorization
       - Structured AI response management across app
@@ -15,30 +18,31 @@
       - CI pipeline trigger on PR or main branch events
       - Contiuous Deployment to AWS EC2
   
-  <details>
-  <summary>Others...</summary>
+<details>
+<summary>More Projects & Experiments...</summary>
 
-  - [Version Control CLI tool: siya-cli](https://github.com/ShreelaxmiHegde/siya-cli)
-      - Custom version control system
-      - Supports `init, add, commit, revert, pull, push` commands
-      - Uses AWS S3 bucket enabling pull and push commands
-  - [Chrome Extension: Clipboard Manager](https://github.com/ShreelaxmiHegde/Clipboard-manager)
-      - Enables storage and retrieval up to 10 copy histories
-      - Built using Javscript and Manifest V3
+  - **CLI tool:** [Version Control tool: siya-cli](https://github.com/ShreelaxmiHegde/siya-cli)
+    - Custom version control system
+    - Supports `init, add, commit, revert, pull, push` commands
+    - Uses AWS S3 bucket enabling pull and push commands
+
+  - **Locally running model:** [speech-to-text transcriber](https://github.com/ShreelaxmiHegde/local-speech2text-transcriber)
+    - Local audio transcription using Faster-Whisper
+    - Microphone input control (pause/resume/send) through keyboard keys
+    - Lightweight simple transcription storage
+    - Hardware-aware model configuration
+  
+  - **ML model:** [Heart Attack Risk Prediction](https://github.com/ShreelaxmiHegde/cardiac_risk_predictor)
+    - Classification problem
+    - Evaluated Logistic Regression, Naive Bayes, KNN
+    - Hyperparameter tuning with GridSearchCV
+    - Achieved 93.3% precision
+  
+  - **Chrome Extension:** [Clipboard Manager](https://github.com/ShreelaxmiHegde/Clipboard-manager)
+    - Enables storage and retrieval up to 10 copy histories
+    - Built using Javscript and Manifest V3
+
   </details>
-
-### ◈ AI/Machine Learning systems Built
-- [Local speech-to-text transcriber](https://github.com/ShreelaxmiHegde/local-speech2text-transcriber)
-  - Local audio transcription using Faster-Whisper
-  - Microphone input control (pause/resume/send) through keyboard keys
-  - Lightweight simple transcription storage
-  - Hardware-aware model configuration
-
-- [Heart Attack Risk Prediction](https://github.com/ShreelaxmiHegde/cardiac_risk_predictor)
-  - Classification problem
-  - Evaluated Logistic Regression, Naive Bayes, KNN
-  - Hyperparameter tuning with GridSearchCV
-  - Achieved 93.3% precision
 
 ---
 
@@ -51,7 +55,7 @@
  Language : <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="32" title="JavaScript"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" height="28" title="TypeScript"/> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" height="28" title="Python"/> <br>
  Frontend : <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" title="React"/> <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" height="32" title="Next.js"/> <br>
  Backend : <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="28" title="Node.js"/> <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" height="28" title="Express.js"/> <img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white" /> <br>
- Database : <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" height="28" title="MongoDB"/> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28" title="MySQL"/> <br>
+ Database : <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" height="28" title="MongoDB"/> <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" height="28" title="Postgres"/> <br>
  Familiar with : <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" height="28" title="C++"/> </p>
 
   <b><--- AIML ---></b> <br>
@@ -86,5 +90,5 @@ Cloud :  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoCo
 
 ---
 
-Open for **Opportunities** - <i>Internships or Collaborations or AI Full-Stack / Backend Jobs .</i> [Resume](https://github.com/user-attachments/files/30075731/ShreelaxmiHegde_resume.docx.pdf)
+Open for **Opportunities** Open to Backend Engineering and AI Full-Stack opportunities, particularly at early-stage companies where I can own features end-to-end. [Resume](https://github.com/user-attachments/files/30075731/ShreelaxmiHegde_resume.docx.pdf)
 
