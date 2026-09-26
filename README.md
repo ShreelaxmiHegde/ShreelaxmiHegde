@@ -1,5 +1,5 @@
 # I'm Shreelaxmi Hegde!
-## Backend-focused full-stack developer building end-to-end applications and AI-powered systems.
+## Interested in building end-to-end products.
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="32" title="JavaScript"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" height="28" title="TypeScript"/> <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="28" title="Node.js"/> <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" height="28" title="Postgres"/> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" height="32" title="Docker"/> <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white" height="28" title="AWS"/>
 
 ---
